@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319498713309",
+    "project_id": "mikky-mynotes",
+    "storage_bucket": "mikky-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319498713309:android:d5f48b502b672079cd4334",
+        "android_client_info": {
+          "package_name": "com.mikky.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319498713309-im7i5k9rtqpgmhjdqcvrnn0i5irfpiko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xl5Em4T9ralHQDK_Drig0iMOVuTevkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319498713309-im7i5k9rtqpgmhjdqcvrnn0i5irfpiko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
